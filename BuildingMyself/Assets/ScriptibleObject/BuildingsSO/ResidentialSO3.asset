@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cd886d775aa3ea4e949290cdae35625, type: 3}
+  m_Name: ResidentialSO3
+  m_EditorClassIdentifier: 
+  buildinf3DUI: {fileID: 5458456081939166285, guid: 62f835219a1f07742a3f027ba9b59c8a, type: 3}
+  currentBuilding: 3
+  name: Residential Big
+  ghostObject: {fileID: 7402532380226137751, guid: 5f33ee43150371348bc39d44d3c8d440, type: 3}
+  ghostBuildingScript: {fileID: 6927064816581907740, guid: 5f33ee43150371348bc39d44d3c8d440, type: 3}
+  perfabBuilding: {fileID: 6051182410322929001, guid: 88f93d2a05ff54a4486f4e17f38a5d12, type: 3}
+  priceToObtain: 10000
+  moneyCost: 1000
+  peopleCost: 0
+  literacyCost: 50
+  moneyCostIncrice: 1.7
+  literacyCostIncrice: 1.6
+  peopleCostIncrice: 0
+  moneyToAddInit: 0
+  peopleToAddInit: 200
+  moodToAddInit: -50
+  literacyToAddInit: 0
+  moneyBonusToMultiply: 1
+  literacyBonusToMultiply: 1
+  peopleBonusToMultiply: 3
+  moodBonusToMultiply: 1

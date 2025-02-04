@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cd886d775aa3ea4e949290cdae35625, type: 3}
+  m_Name: FactorySO
+  m_EditorClassIdentifier: 
+  buildinf3DUI: {fileID: 2652853908570541161, guid: 126c56b9be423404887a12a03a438164, type: 3}
+  currentBuilding: 1
+  name: Factory
+  ghostObject: {fileID: 8667729632944477422, guid: 16ecdd3269a55b546b6fbeddf270b401, type: 3}
+  ghostBuildingScript: {fileID: 4846144096862778630, guid: 16ecdd3269a55b546b6fbeddf270b401, type: 3}
+  perfabBuilding: {fileID: 5127548393453520528, guid: 2f6fa8be9b6f76346b105edea2159071, type: 3}
+  priceToObtain: 6000
+  moneyCost: 2000
+  peopleCost: 100
+  literacyCost: 60
+  moneyCostIncrice: 1.7
+  literacyCostIncrice: 1.7
+  peopleCostIncrice: 1.6
+  moneyToAddInit: 20
+  peopleToAddInit: 0
+  moodToAddInit: -15
+  literacyToAddInit: 0
+  moneyBonusToMultiply: 3
+  literacyBonusToMultiply: 1
+  peopleBonusToMultiply: 1
+  moodBonusToMultiply: 1

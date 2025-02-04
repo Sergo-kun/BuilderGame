@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cd886d775aa3ea4e949290cdae35625, type: 3}
+  m_Name: UniversitySO
+  m_EditorClassIdentifier: 
+  buildinf3DUI: {fileID: 0}
+  currentBuilding: 8
+  name: University
+  ghostObject: {fileID: 1398372503165162136, guid: e78071d4197dad54cbcc34a560057a00, type: 3}
+  ghostBuildingScript: {fileID: 6218576677588973151, guid: e78071d4197dad54cbcc34a560057a00, type: 3}
+  perfabBuilding: {fileID: 4314766832345923421, guid: bab99c7956bdd1d42a120c305b8776bf, type: 3}
+  priceToObtain: 50000
+  moneyCost: 15000
+  peopleCost: 200
+  literacyCost: 200
+  moneyCostIncrice: 1.7
+  literacyCostIncrice: 1.6
+  peopleCostIncrice: 1.7
+  moneyToAddInit: 0
+  peopleToAddInit: 0
+  moodToAddInit: 0
+  literacyToAddInit: 50
+  moneyBonusToMultiply: 1
+  literacyBonusToMultiply: 1
+  peopleBonusToMultiply: 1
+  moodBonusToMultiply: 3

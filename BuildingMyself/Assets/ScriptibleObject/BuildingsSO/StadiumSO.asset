@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cd886d775aa3ea4e949290cdae35625, type: 3}
+  m_Name: StadiumSO
+  m_EditorClassIdentifier: 
+  buildinf3DUI: {fileID: 0}
+  currentBuilding: 10
+  name: Stadium
+  ghostObject: {fileID: 345111883501630546, guid: a87bd6a404eb7a840a6d759809780a53, type: 3}
+  ghostBuildingScript: {fileID: 2528418034822236531, guid: a87bd6a404eb7a840a6d759809780a53, type: 3}
+  perfabBuilding: {fileID: 1434808958229288656, guid: 34f18816e896e9844b03a46ceaca742d, type: 3}
+  priceToObtain: 20000
+  moneyCost: 5000
+  peopleCost: 200
+  literacyCost: 100
+  moneyCostIncrice: 1.7
+  literacyCostIncrice: 1.7
+  peopleCostIncrice: 1.6
+  moneyToAddInit: 0
+  peopleToAddInit: 0
+  moodToAddInit: 60
+  literacyToAddInit: 0
+  moneyBonusToMultiply: 1
+  literacyBonusToMultiply: 1
+  peopleBonusToMultiply: 1
+  moodBonusToMultiply: 3
